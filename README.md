@@ -1,6 +1,6 @@
 # MERN-ECOM_AdminApp
 
-Full Functional E-commerce Admin-App
+Fully Functional E-commerce Admin-App
 
 Used: MERN stack
 
